@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.a9477e34.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.7e784701.js",
+    "static/media/brand.png": "/ws101_react_landingpage/static/media/brand.fe444abe2573e019392e.png",
+    "static/media/business.png": "/ws101_react_landingpage/static/media/business.76b18c9732419d114d17.png",
+    "static/media/online.png": "/ws101_react_landingpage/static/media/online.b6ef79d5d85dc0253cf2.png",
+    "static/media/accessibility.png": "/ws101_react_landingpage/static/media/accessibility.acb988fa75bf2b164a4e.png",
+    "static/media/competitive.png": "/ws101_react_landingpage/static/media/competitive.f666b55bbdfc5a7538a7.png",
+    "static/media/seo.png": "/ws101_react_landingpage/static/media/seo.362f7354eca779fe1741.png",
+    "static/media/cost.png": "/ws101_react_landingpage/static/media/cost.6baeb672c729ea52eb80.png",
+    "static/media/ux.png": "/ws101_react_landingpage/static/media/ux.13b2d867319cba11ce8e.png",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.a9477e34.css.map": "/ws101_react_landingpage/static/css/main.a9477e34.css.map",
+    "main.7e784701.js.map": "/ws101_react_landingpage/static/js/main.7e784701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9477e34.css",
+    "static/js/main.7e784701.js"
+  ]
+}
