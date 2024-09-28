@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ws101_react_landingpage/static/css/main.a9477e34.css",
-    "main.js": "/ws101_react_landingpage/static/js/main.7e784701.js",
+    "main.css": "/ws101_react_landingpage/static/css/main.aa086b7e.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.c8c4cac3.js",
     "static/media/brand.png": "/ws101_react_landingpage/static/media/brand.fe444abe2573e019392e.png",
     "static/media/business.png": "/ws101_react_landingpage/static/media/business.76b18c9732419d114d17.png",
     "static/media/online.png": "/ws101_react_landingpage/static/media/online.b6ef79d5d85dc0253cf2.png",
@@ -11,11 +11,11 @@
     "static/media/cost.png": "/ws101_react_landingpage/static/media/cost.6baeb672c729ea52eb80.png",
     "static/media/ux.png": "/ws101_react_landingpage/static/media/ux.13b2d867319cba11ce8e.png",
     "index.html": "/ws101_react_landingpage/index.html",
-    "main.a9477e34.css.map": "/ws101_react_landingpage/static/css/main.a9477e34.css.map",
-    "main.7e784701.js.map": "/ws101_react_landingpage/static/js/main.7e784701.js.map"
+    "main.aa086b7e.css.map": "/ws101_react_landingpage/static/css/main.aa086b7e.css.map",
+    "main.c8c4cac3.js.map": "/ws101_react_landingpage/static/js/main.c8c4cac3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9477e34.css",
-    "static/js/main.7e784701.js"
+    "static/css/main.aa086b7e.css",
+    "static/js/main.c8c4cac3.js"
   ]
 }
